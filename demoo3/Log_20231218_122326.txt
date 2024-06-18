@@ -1,0 +1,41 @@
+[3] 12:23:26 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\demoo3\demoo3.tws'
+[3] 12:23:26 PM: Log level: 4
+[3] 12:23:26 PM: Release: 23.1.0.2509
+[3] 12:23:26 PM: Execution Approval is disabled.
+[3] 12:23:26 PM: No service discovery configured.
+[3] 12:23:26 PM:  Save started!
+[3] 12:23:26 PM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 12:23:26 PM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 12:23:26 PM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 12:23:26 PM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 12:23:26 PM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 12:23:26 PM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 12:23:27 PM:  Save finished!
+[3] 12:23:28 PM: CommanderAssemblyResolver: Unable to resolve: System.XmlSerializers, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+[4] 12:23:28 PM:  ShowStatusInfo: 'New Project with Default-Folders created!'
+[3] 12:23:28 PM:  Save started!
+[3] 12:23:28 PM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 12:23:28 PM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 12:23:28 PM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 12:23:28 PM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 12:23:28 PM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 12:23:28 PM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 12:23:28 PM:  Save finished!
+[4] 12:23:28 PM:  ShowStatusInfo: 'Workspace 'C:\Tosca_Projects\Tosca_Workspaces\demoo3\demoo3.tws' created successfully!'
+[4] 12:23:28 PM:  ShowStatusInfo: 'Importing workspace template, please wait...'
+[4] 12:23:32 PM:  ShowStatusInfo: 'Import Subset finalizing ... '
+[4] 12:23:32 PM:  ShowStatusInfo: 'Import Subset finished'
+[3] 12:23:32 PM: Task 'Import Subset' finished
+[4] 12:23:32 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:23:32 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:23:32 PM:  ShowStatusInfo: 'Workspace template successfully imported!'
+[3] 12:23:33 PM:  Save started!
+[3] 12:23:33 PM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 12:23:33 PM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 12:23:33 PM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 12:23:33 PM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 12:23:33 PM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 12:23:33 PM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 12:23:33 PM:  Save finished!
+[3] 12:23:36 PM: Closing Workspace!
+[3] 12:23:36 PM: Log closed!

@@ -1,0 +1,79 @@
+[Info] 12/12/2023 3:57:45 PM: Auto-exclusion started
+[Info] 12/12/2023 3:57:45 PM: 0/100 - Unused objects exclusion
+[Info] 12/12/2023 3:57:46 PM: 50/100 - Unused objects exclusion
+[Info] 12/12/2023 3:57:46 PM: 100/100 - Unused objects exclusion
+[Info] 12/12/2023 3:57:46 PM: Auto-exclusion finished
+[Info] 12/12/2023 3:57:57 PM: Compacting started
+[Info] 12/12/2023 3:57:57 PM: 0/100 - Compacting Workspace
+[Info] 12/12/2023 3:57:57 PM: Compacting Workspace - Defragmentation finished in 00:00:00.2437894, database size: 7188480
+[Info] 12/12/2023 3:57:57 PM: -2147483648/-2147483648 - Recalculating index statistics
+[Info] 12/12/2023 3:57:57 PM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0312534, database size: 7188480
+[Info] 12/12/2023 3:57:57 PM: Compacting finished
+[Info] 12/13/2023 1:03:00 PM: Auto-exclusion started
+[Info] 12/13/2023 1:03:01 PM: 0/100 - Unused objects exclusion
+[Info] 12/13/2023 1:03:01 PM: 50/100 - Unused objects exclusion
+[Info] 12/13/2023 1:03:01 PM: 100/100 - Unused objects exclusion
+[Info] 12/13/2023 1:03:01 PM: Auto-exclusion finished
+[Info] 12/13/2023 1:03:11 PM: 90/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 12/13/2023 1:03:12 PM: Compacting started
+[Info] 12/13/2023 1:03:12 PM: Compacting Workspace - Defragmentation finished in 00:00:00.2355320, database size: 7475200
+[Info] 12/13/2023 1:03:12 PM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0513255, database size: 7475200
+[Info] 12/13/2023 1:03:12 PM: Compacting finished
+[Info] 12/13/2023 1:03:12 PM: 95/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12/13/2023 1:03:13 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12/13/2023 1:03:14 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12/13/2023 1:03:15 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12/13/2023 1:03:16 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12/13/2023 1:03:17 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12/13/2023 1:04:19 PM: Auto-exclusion started
+[Info] 12/13/2023 1:04:19 PM: 0/100 - Unused objects exclusion
+[Info] 12/13/2023 1:04:19 PM: 50/100 - Unused objects exclusion
+[Info] 12/13/2023 1:04:19 PM: 100/100 - Unused objects exclusion
+[Info] 12/13/2023 1:04:19 PM: Auto-exclusion finished
+[Info] 12/13/2023 1:04:30 PM: 93/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 12/13/2023 1:04:30 PM: Compacting started
+[Info] 12/13/2023 1:04:30 PM: Compacting Workspace - Defragmentation finished in 00:00:00.1786402, database size: 7475200
+[Info] 12/13/2023 1:04:30 PM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0215900, database size: 7475200
+[Info] 12/13/2023 1:04:30 PM: Compacting finished
+[Info] 12/13/2023 1:04:31 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12/13/2023 1:04:32 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12/13/2023 1:04:33 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12/13/2023 1:04:34 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12/13/2023 1:04:35 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12/18/2023 2:54:58 PM: Auto-exclusion started
+[Info] 12/18/2023 2:54:59 PM: 0/100 - Unused objects exclusion
+[Info] 12/18/2023 2:54:59 PM: 50/100 - Unused objects exclusion
+[Info] 12/18/2023 2:54:59 PM: 100/100 - Unused objects exclusion
+[Info] 12/18/2023 2:54:59 PM: Auto-exclusion finished
+[Info] 12/18/2023 2:55:10 PM: 93/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 12/18/2023 2:55:10 PM: Compacting started
+[Info] 12/18/2023 2:55:11 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12/18/2023 2:55:11 PM: Compacting Workspace - Defragmentation finished in 00:00:01.5248375, database size: 7897088
+[Info] 12/18/2023 2:55:12 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12/18/2023 2:55:12 PM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.3859027, database size: 7897088
+[Info] 12/18/2023 2:55:12 PM: Compacting finished
+[Info] 12/18/2023 2:55:13 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12/18/2023 2:55:14 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12/18/2023 2:55:15 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12/18/2023 2:55:16 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12/18/2023 2:55:17 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12/18/2023 4:49:26 PM: Auto-exclusion started
+[Info] 12/18/2023 4:49:26 PM: 0/100 - Unused objects exclusion
+[Info] 12/18/2023 4:49:26 PM: 50/100 - Unused objects exclusion
+[Info] 12/18/2023 4:49:26 PM: 100/100 - Unused objects exclusion
+[Info] 12/18/2023 4:49:26 PM: Auto-exclusion finished
+[Info] 12/18/2023 4:49:37 PM: 92/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 12/18/2023 4:49:37 PM: Compacting started
+[Info] 12/18/2023 4:49:37 PM: Compacting Workspace - Defragmentation finished in 00:00:00.2005550, database size: 9076736
+[Info] 12/18/2023 4:49:37 PM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0312552, database size: 9076736
+[Info] 12/18/2023 4:49:37 PM: Compacting finished
+[Info] 12/18/2023 4:49:38 PM: 97/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12/18/2023 4:49:39 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12/18/2023 4:49:40 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12/18/2023 4:49:41 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12/18/2023 4:49:42 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12/18/2023 5:55:36 PM: Auto-exclusion started
+[Info] 12/18/2023 5:55:37 PM: 0/100 - Unused objects exclusion
+[Info] 12/18/2023 5:55:37 PM: 50/100 - Unused objects exclusion
+[Info] 12/18/2023 5:55:37 PM: 100/100 - Unused objects exclusion
+[Info] 12/18/2023 5:55:37 PM: Auto-exclusion finished

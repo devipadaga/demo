@@ -1,0 +1,33 @@
+[3] 12:53:30 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\Demo\Demo.tws'
+[3] 12:53:30 PM: Log level: 4
+[3] 12:53:30 PM: Release: 23.1.0.2509
+[3] 12:53:31 PM: Execution Approval is disabled.
+[3] 12:53:31 PM: No service discovery configured.
+[3] 12:53:31 PM:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 23.1.0.2509 (2509)
+[3] 12:53:31 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 23.1.0.2509 (2509)
+[3] 12:53:31 PM:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 23.1.0.2509 (2509)
+[3] 12:53:31 PM:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 23.1.0.2509 (2509)
+[3] 12:53:31 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 23.1.0.2509 (2509)
+[3] 12:53:31 PM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 23.1.0.2509 (2509)
+[3] 12:53:31 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 23.1.0.2509 (2509)
+    + : SAPSolutionManagerIntegration 23.1.0.2509 (2509)
+[3] 12:53:31 PM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 12:53:31 PM: Searcher found 0 results in 146.2884 ms
+[3] 12:53:31 PM:  + OptIntAddIn: OptIntAddIn 23.1.0.2509 (2509)
+[3] 12:53:31 PM:  + QTestIntegrationAddIn: QTestIntegrationAddIn 23.1.0.2509 (2509)
+[3] 12:53:31 PM:  + RemoteControl: RemoteControlAddIn 23.1.0.2509 (2509)
+[3] 12:53:31 PM:  + Reporting: ReportingAddIn 23.1.0.2509 (2509)
+[3] 12:53:31 PM:  + ReportingUI: ReportingUIAddIn 23.1.0.2509 (2509)
+[3] 12:53:31 PM:  + RequirementsManagementAddIn: RequirementsManagement 23.1.0.2509 (2509)
+[3] 12:53:31 PM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 23.1.0.2509 (2509)
+[3] 12:53:31 PM:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 23.1.0.2509 (2509)
+[3] 12:53:31 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 23.1.0.2509 (2509)
+[3] 12:53:31 PM:  + TestCaseDesign: TestCaseDesign 23.1.0.2509 (2509)
+[3] 12:53:31 PM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 23.1.0.2509 (2509)
+[3] 12:53:31 PM:  + XDefinitions: XDefinitions 23.1.0.2509 (2509)
+[3] 12:53:31 PM:  + XDefinitionsUI: XDefinitionsUI 23.1.0.2509 (2509)
+[3] 12:53:31 PM: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\Demo\Demo.tws'
+[4] 12:53:38 PM:  ShowStatusInfo: 'Ready'
+[3] 12:53:58 PM: Layout not saved: No Panels or Tabbed Documents
+[3] 12:53:59 PM: Closing Workspace!
+[3] 12:53:59 PM: Log closed!

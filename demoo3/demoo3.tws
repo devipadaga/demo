@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\demoo3.db</DatabasePathAndName>
+    <Database>C:\Tosca_Projects\Tosca_Workspaces\demoo3\Repository\demoo3.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a0f8de0-497b-8822-84aa-98227a549c09</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>96be8feb-2f44-4df3-8993-0d4aa0b8ea24</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>

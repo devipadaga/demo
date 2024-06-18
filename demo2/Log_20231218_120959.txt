@@ -1,0 +1,26 @@
+[3] 12:09:59 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\demo2\demo2.tws'
+[3] 12:09:59 PM: Log level: 4
+[3] 12:09:59 PM: Release: 23.1.0.2509
+[3] 12:09:59 PM: Execution Approval is disabled.
+[3] 12:09:59 PM: No service discovery configured.
+[3] 12:09:59 PM:  Save started!
+[3] 12:09:59 PM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 12:09:59 PM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 12:09:59 PM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 12:09:59 PM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 12:09:59 PM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 12:09:59 PM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 12:09:59 PM:  Save finished!
+[3] 12:10:00 PM: CommanderAssemblyResolver: Unable to resolve: System.XmlSerializers, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+[4] 12:10:00 PM:  ShowStatusInfo: 'New Project with Default-Folders created!'
+[3] 12:10:00 PM:  Save started!
+[3] 12:10:00 PM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 12:10:00 PM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 12:10:00 PM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 12:10:00 PM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 12:10:00 PM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 12:10:00 PM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 12:10:00 PM:  Save finished!
+[4] 12:10:00 PM:  ShowStatusInfo: 'Workspace 'C:\Tosca_Projects\Tosca_Workspaces\demo2\demo2.tws' created successfully!'
+[3] 12:10:04 PM: Closing Workspace!
+[3] 12:10:04 PM: Log closed!
